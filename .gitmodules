@@ -1,0 +1,9 @@
+[submodule "ambari-server"]
+	path = ambari-server
+	url = git@github.com:lmikoto/ambari-server.git
+[submodule "node"]
+	path = node
+	url = git@github.com:lmikoto/ambari-node.git
+[submodule "postgres"]
+	path = postgres
+	url = git@github.com:lmikoto/postgres.git
